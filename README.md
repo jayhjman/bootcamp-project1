@@ -29,7 +29,7 @@ As a keystone species it is of utmost importance to implement measures for conse
 
 -Annual Spring Chinook Run Willamette Falls
   
-  ![Annual Salmon](Daily_Images/will_annual_line_time.png)
+  ![Annual Salmon](Annual_Images/will_annual_line_time.png)
 
 - Daily Spring Chinook vs Willamette Water Depth
 
@@ -39,6 +39,6 @@ As a keystone species it is of utmost importance to implement measures for conse
 
 - Daily Spring Chinook vs Willamette Water Temperature
 
-  ![Daily Salmon Below Temp Bar](will_daily_bar_temp.png)
+  ![Daily Salmon Below Temp Bar](Daily_Images/will_daily_bar_temp.png)
 
   ![Daily Salmon Below Temp Scatter](Daily_Images/will_daily_scatter_temp.png)
