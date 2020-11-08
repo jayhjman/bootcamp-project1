@@ -26,3 +26,19 @@ As a keystone species it is of utmost importance to implement measures for conse
   ![Daily Salmon Below Temp Bar](Daily_Images/bonn_below_daily_bar_temp.png)
 
   ![Daily Salmon Below Temp Scatter](Daily_Images/bonn_below_daily_scatter_temp.png)
+
+-Annual Spring Chinook Run Willamette Falls
+  
+  ![Annual Salmon](Daily_Images/will_annual_line_time.png)
+
+- Daily Spring Chinook vs Willamette Water Depth
+
+  ![Daily Salmon Below Depth Bar](Daily_Images/will_daily_bar_gage.png)
+
+  ![Daily Salmon Below Depth Scatter](Daily_Images/will_daily_scatter_gage.png)
+
+- Daily Spring Chinook vs Willamette Water Temperature
+
+  ![Daily Salmon Below Temp Bar](will_daily_bar_temp.png)
+
+  ![Daily Salmon Below Temp Scatter](Daily_Images/will_daily_scatter_temp.png)
