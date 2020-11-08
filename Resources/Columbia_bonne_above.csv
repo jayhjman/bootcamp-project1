@@ -1,36 +1,4 @@
-# ---------------------------------- WARNING ----------------------------------------
-# Some of the data that you have obtained from this U.S. Geological Survey database
-# may not have received Director's approval. Any such data values are qualified
-# as provisional and are subject to revision. Provisional data are released on the
-# condition that neither the USGS nor the United States Government may be held liable
-# for any damages resulting from its use.
-#
-# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
-#
-# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
-# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
-#
-# Contact:   gs-w_support_nwisweb@usgs.gov
-# retrieved: 2020-11-06 23:56:15 EST       (caww01)
-#
-# Data for the following 1 site(s) are contained in this file
-#    USGS 453845121562000 COLUMBIA RIVER AT BONNEVILLE DAM FOREBAY, WA
-# -----------------------------------------------------------------------------------
-#
-# Data provided for site 453845121562000
-#            TS   parameter     statistic     Description
-#        116313       00010     00001     Temperature, water, degrees Celsius (Maximum)
-#        116314       00010     00002     Temperature, water, degrees Celsius (Minimum)
-#        116315       00010     00003     Temperature, water, degrees Celsius (Mean)
-#
-# Data-value qualification codes included in this output:
-#        
-#     A  Approved for publication -- Processing and review completed.
-#     P  Provisional data subject to revision.
-#     4  Statistic computed from less than expected number of instantaneous values for the period
-# 
-agency_cd	site_no	datetime	116313_00010_00001	116313_00010_00001_cd	116314_00010_00002	116314_00010_00002_cd	116315_00010_00003	116315_00010_00003_cd
-5s	15s	20d	14n	10s	14n	10s	14n	10s
+agency_cd	site_no	datetime	Temp_Max	Status_Max_Temp	Temp_Min	Status_Temp_Min	Temp_Mean	Status_Temp_Mean
 USGS	453845121562000	2008-02-28	5.2	A	4.9	A	5.0	A
 USGS	453845121562000	2008-02-29	5.2	A	5.1	A	5.2	A
 USGS	453845121562000	2008-03-01	5.3	A	5.2	A	5.2	A
@@ -4623,4 +4591,3 @@ USGS	453845121562000	2020-09-20	19.3	A	19.2	A	19.3	A
 USGS	453845121562000	2020-09-21	19.3	A	19.2	A	19.3	A
 USGS	453845121562000	2020-09-22	19.3	A	19.2	A	19.3	A
 USGS	453845121562000	2020-09-23	19.2	A	19.1	A	19.2	A
-USGS	453845121562000	2020-09-24	19.1	P:[4]	Ssn	P		
