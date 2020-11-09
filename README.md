@@ -65,6 +65,16 @@ As a keystone species it is of utmost importance to implement measures for conse
 
   ![Daily Salmon Below Temp Scatter](Daily_Images/will_daily_scatter_temp.png)
 
+- Annual Portland Metro Population vs Spring Chinook
+
+  ![Portland Population Over Time](Annual_Images/Portland_Metro_Population_Over_Time.png)
+
+  ![Population vs Below Bonneville](Annual_Images/Population_vs_Below_Bonneville_Salmon_Count.png)
+
+  ![Population vs Above Bonneville](Annual_Images/Population_vs_Above_Bonneville_Salmon_Count.png)
+
+  ![Population vs Willamette](Annual_Images/Population_vs_Willamette_Salmon_Count.png)
+
 ## Authors
 
 Made by Jenny Kaylor, Josh Williams, Jay Hastings, Erica Fisher and Courtney Muhlbach
