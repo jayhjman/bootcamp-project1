@@ -15,6 +15,10 @@ As a keystone species it is of utmost importance to implement measures for conse
 
 - [Spring Chinook Salmon in the Portland Metro Area](Spring%20Chinook%20Salmon%20in%20the%20Portland%20Metro%20Area.pptx) - Presentation for the Spring Chinook Analysis
 
+- [Resources](Resources/) - The body of data the team filtered through for the end analysis
+
+- [Research](Research/) - Research and experimentation jupyter notebooks used to arrive at final data sets
+
 ## Results
 
 - Annual Spring Chinook Run Bonneville Dam
