@@ -13,7 +13,7 @@ As a keystone species it is of utmost importance to implement measures for conse
 
 - [Final Analysis](Final_Analysis.ipynb) - Jupyter Notebook for that contains the final analysis results, this notebook uses the final cleaned data from all other notebooks used to scrub and load data
 
-- [<Spring Chinook Salmon in the Portland Metro Area>](<Spring Chinook Salmon in the Portland Metro Area.pptx>) - Presentation for the Spring Chinook Analysis
+- [Spring Chinook Salmon in the Portland Metro Area](Spring%20Chinook%20Salmon%20in%20the%20Portland%20Metro%20Area.pptx) - Presentation for the Spring Chinook Analysis
 
 ## Results
 
