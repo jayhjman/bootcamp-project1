@@ -11,7 +11,7 @@ As a keystone species it is of utmost importance to implement measures for conse
 
 ## Files
 
-- [Final Analysis](Final_Analysis.ipynb) - Jupyter Notebook for that contains the final analysis results, this notebook uses the final cleaned data from all other notebooks used to scrub and load data
+- [`Final_Analysis.ipynb`](Final_Analysis.ipynb) - Jupyter Notebook for that contains the final analysis results, this notebook uses the final cleaned data from all other notebooks used to scrub and load data
 
 - [Spring Chinook Salmon in the Portland Metro Area](Spring%20Chinook%20Salmon%20in%20the%20Portland%20Metro%20Area.pptx) - Presentation for the Spring Chinook Analysis
 
@@ -48,3 +48,8 @@ As a keystone species it is of utmost importance to implement measures for conse
   ![Daily Salmon Below Temp Bar](Daily_Images/will_daily_bar_temp.png)
 
   ![Daily Salmon Below Temp Scatter](Daily_Images/will_daily_scatter_temp.png)
+
+## Authors
+
+Made by Jenny Kaylor, Josh Williams, Jay Hastings, Erica Fisher and Courtney Muhlbach
+with :heart: in 2020.
